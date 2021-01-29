@@ -1,0 +1,24 @@
+.firstbox{
+width: 400px;
+height: 760px;
+border-width: 7px;
+background-color: rgb(101,171,46);
+position: relative;
+}
+
+.secondbox{
+position: relative; left: 400px; top: -776px;
+width: 400px;
+height: 760px;
+background-color: rgb(254,205,47);
+
+}
+
+.thirdbox{
+    position: relative; left: 800px; top: -1552px;
+    width: 400px;
+    height: 760px;
+background-color: rgb(212,11,54);
+
+
+}
